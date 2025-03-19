@@ -41,4 +41,7 @@ This project is your go-to stylist for classifying Fashion MNIST images. Whether
 
 ---
 
+## Live Demo
+Check out the live demo of the app (https://fashionmnistclassifier-wewetkapheygy2edcnrnr8.streamlit.app).
+
 Let me know if you need further assistance ;)
